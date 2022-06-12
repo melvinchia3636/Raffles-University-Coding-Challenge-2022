@@ -21,9 +21,9 @@ Question 3: Using OOP approach
 
 <div>
 
-  <img width="50%" alt="Challenge 3" src="https://user-images.githubusercontent.com/64565584/173209691-39b69965-f46a-469c-b4c7-5c58f4c6639b.png">
-  <img width="50%" alt="Challenge 2" src="https://user-images.githubusercontent.com/64565584/173209695-95961308-8855-40b6-980b-31571d531795.png">
-  <img width="50%" alt="Challenge 1" src="https://user-images.githubusercontent.com/64565584/173209696-f6bd1818-e7b4-4fae-a2e5-7d42b884e2da.png">
+  <img width="49%" alt="Challenge 3" src="https://user-images.githubusercontent.com/64565584/173209691-39b69965-f46a-469c-b4c7-5c58f4c6639b.png">
+  <img width="49%" alt="Challenge 2" src="https://user-images.githubusercontent.com/64565584/173209695-95961308-8855-40b6-980b-31571d531795.png">
+  <img width="49%" alt="Challenge 1" src="https://user-images.githubusercontent.com/64565584/173209696-f6bd1818-e7b4-4fae-a2e5-7d42b884e2da.png">
 
 </div>
 
